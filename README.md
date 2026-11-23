@@ -72,3 +72,12 @@ are test fixtures. Keep credentials and private inventory out of Git.
 
 See [NOTES.md](NOTES.md) for the input contract, verification, and integration notes.
 Related utilities: [route-longest-prefix](https://github.com/sal-s-root/route-longest-prefix), [syslog-severity-summary](https://github.com/sal-s-root/syslog-severity-summary).
+
+## Project status
+
+A small standalone learning exercise using supplied fixtures. The related
+[infrastructure toolbox](https://github.com/sal-s-root/infra-toolbox) collects these
+checks in one place.
+
+The assigned historical dates form a retrospective learning schedule; this
+exercise was created or reconstructed in 2026. See [history and scope](HISTORY.md).
